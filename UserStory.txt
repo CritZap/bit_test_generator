@@ -1,0 +1,7 @@
+Task 1: Import necessary libraries
+
+Task 2: Construct the classes
+
+Task 3: add the question and question+answer in the class
+
+Task 4: Make an argument that initiates the html/pdf test generator
